@@ -10,5 +10,7 @@ root.render(
   <StrictMode>
     <h1>Weather App</h1>
     <App />
+    <br/>
+    <p>This project was coded by <a href="https://github.com/KarabooMjiyako/react-week-4">Karabo Mjiyako</a></p>
   </StrictMode>
 );
